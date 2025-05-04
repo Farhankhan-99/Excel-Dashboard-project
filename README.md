@@ -22,6 +22,7 @@ Target Hit % – Percentage of the target achieved.
 
 Away From Target % – Percentage still needed to meet the target.
 
+# Dashboard interaction
 
 
 # Dashboard KPIs 
@@ -40,3 +41,10 @@ Away From Target % – Percentage still needed to meet the target.
 
 # Dashboard
 ![Screenshot 2025-05-04 160810](https://github.com/user-attachments/assets/92b1eaa9-d658-4c4e-b199-a0919b735b54)
+
+
+
+# How to Use:
+
+Use the slicer to filter data by region.
+Explore the performance of sales executives with the charts showing Total Sales, Target Hit %, and Away From Target %.
