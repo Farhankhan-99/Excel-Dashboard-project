@@ -38,3 +38,5 @@ Away From Target % – Percentage still needed to meet the target.
 6) Visual Sales Distribution (Charts)
 
 
+# Dashboard
+https://github.com/Farhankhan-99/Excel-Dashboard-project/blob/main/Dashboard.png
