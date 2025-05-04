@@ -47,7 +47,7 @@ Away From Target % – Percentage still needed to meet the target.
 # Dashboard 
 ![Screenshot 2025-05-04 160810](https://github.com/user-attachments/assets/92b1eaa9-d658-4c4e-b199-a0919b735b54)
 
- Dashboard interaction:- https://github.com/Farhankhan-99/Excel-Dashboard-project/blob/main/Dashboard.png
+ Dashboard interaction:- a< href="https://github.com/Farhankhan-99/Excel-Dashboard-project/blob/main/Dashboard.png"> View Dashboard</a>
 
 
 # How to Use:
